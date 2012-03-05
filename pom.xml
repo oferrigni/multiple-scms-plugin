@@ -42,8 +42,8 @@
   </licenses>
 
   <scm>
-      <connection>scm:git:git://github.com/jenkinsci/multiple-scms-plugin.git</connection>
-      <developerConnection>scm:git:git@github.com:jenkinsci/multiple-scms-plugin.git</developerConnection>
+      <connection>scm:git:git://github.com/oferrigni/multiple-scms-plugin.git</connection>
+      <developerConnection>scm:git:git@github.com:oferrigni/multiple-scms-plugin.git</developerConnection>
   </scm>
 
   <dependencies>
